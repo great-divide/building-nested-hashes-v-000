@@ -22,8 +22,8 @@ def bonus
 
   #code your solution here:
 
-  def bonus(hash, key)
-    hash.[]=(key, "dead")
+  def bonus
+    epic_tragedy[:montague][:hero][:status] = "dead"
   end
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
