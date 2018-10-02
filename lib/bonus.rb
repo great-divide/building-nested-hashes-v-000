@@ -22,7 +22,7 @@ def bonus
 
   #code your solution here:
 
-  def bonus(key, value)
+  def bonus(key)
     epic_tragedy.[]= ("dead")
   end
 
